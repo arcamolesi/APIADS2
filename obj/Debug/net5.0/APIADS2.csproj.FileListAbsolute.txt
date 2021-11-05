@@ -268,3 +268,8 @@ E:\teste\ADS2021\APIADS2\obj\Debug\net5.0\APIADS2.dll
 E:\teste\ADS2021\APIADS2\obj\Debug\net5.0\ref\APIADS2.dll
 E:\teste\ADS2021\APIADS2\obj\Debug\net5.0\APIADS2.pdb
 E:\teste\ADS2021\APIADS2\obj\Debug\net5.0\APIADS2.genruntimeconfig.cache
+E:\teste\ADS2\APIADS2\bin\Debug\net5.0\System.Web.Cors.dll
+E:\teste\ADS2\APIADS2\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+E:\teste\ADS2\APIADS2\bin\Debug\net5.0\System.Web.Http.dll
+E:\teste\ADS2\APIADS2\bin\Debug\net5.0\System.Web.Http.Cors.dll
+E:\teste\ADS2\APIADS2\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll

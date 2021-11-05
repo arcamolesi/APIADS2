@@ -51,6 +51,7 @@ namespace APIADS2
             app.UseHttpsRedirection();
 
             app.UseRouting();
+            app.UseCors("*");
 
             app.UseAuthorization();
 
